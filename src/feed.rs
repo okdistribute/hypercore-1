@@ -18,7 +18,6 @@ use random_access_memory::RandomAccessMemory;
 use random_access_storage::RandomAccess;
 use tree_index::TreeIndex;
 
-use std::borrow::Borrow;
 use std::cmp;
 use std::fmt::{self, Debug, Display};
 use std::ops::Range;
